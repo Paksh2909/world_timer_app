@@ -5,6 +5,7 @@ First Flutter Application using worldtime API.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+Added Stopwatch and Timer functionalities.
 
 A few resources to get you started if this is your first Flutter project:
 
