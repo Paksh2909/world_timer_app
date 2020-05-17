@@ -1,6 +1,6 @@
 # worldtimerapp
 
-A new Flutter application.
+First Flutter Application using worldtime API.
 
 ## Getting Started
 
